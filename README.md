@@ -19,6 +19,7 @@ Smoothen the image using Gaussian Method.
 ### Step3:
 <br>
 Apply the reqiured algorithms for Global thresholding.
+
 ### Step4:
 <br>
 Apply the reqiured algorithms for Adaptive thresholding.
